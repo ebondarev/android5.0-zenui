@@ -1,5 +1,5 @@
 import './App.css';
-import { LockScreen } from './components/lock_screen/lock_screen';
+import { LockScreen } from './containers/lock_screen/lock_screen';
 import {
   BrowserRouter as Router,
   Switch,
